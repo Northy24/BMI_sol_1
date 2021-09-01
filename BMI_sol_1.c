@@ -22,4 +22,5 @@ int main(){
     }else if(BMI >= 30){
         printf("Your are higher than normal");
     }
+    return 0;
 }
